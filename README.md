@@ -1,3 +1,5 @@
+The functioning build is available at [My website](http://marcusdavenport.io/play-nine/).
+
 This project was created as part of the Pluralsight course [React.js: Getting Started](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents) by [Samer Buna](https://app.pluralsight.com/profile/author/samer-buna).
 
 After following the tutorial, I made minor changes including additional styling. I am working on adding feature to the game.
